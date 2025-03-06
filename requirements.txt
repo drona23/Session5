@@ -1,0 +1,9 @@
+Hugging Face
+pandas
+requests
+tensorflow
+keras
+google-colab
+huggingface_hub
+numpy
+pickle5
